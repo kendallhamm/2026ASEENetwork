@@ -1,0 +1,60 @@
+AIRPORT_SEQ_ID,AIRPORT_ID,AIRPORT,DISPLAY_AIRPORT_NAME,DISPLAY_AIRPORT_CITY_NAME_FULL,AIRPORT_WAC,AIRPORT_COUNTRY_NAME,AIRPORT_COUNTRY_CODE_ISO,AIRPORT_STATE_NAME,AIRPORT_STATE_CODE,AIRPORT_STATE_FIPS,CITY_MARKET_ID,DISPLAY_CITY_MARKET_NAME_FULL,CITY_MARKET_WAC,LAT_DEGREES,LAT_HEMISPHERE,LAT_MINUTES,LAT_SECONDS,LATITUDE,LON_DEGREES,LON_HEMISPHERE,LON_MINUTES,LON_SECONDS,LONGITUDE,AIRPORT_START_DATE,AIRPORT_THRU_DATE,AIRPORT_IS_CLOSED,AIRPORT_IS_LATEST
+1019201,10192,AFP,Anson County,"Wadesboro, NC",36,United States,US,North Carolina,NC,37,30192,"Wadesboro, NC",36,35,N,1,26,35.02388889,80,W,4,53,-80.08138889,7/1/2009 0:00,6/30/2011 0:00,0,0
+1043101,10431,AVL,Asheville Regional,"Asheville, NC",36,United States,US,North Carolina,NC,37,30431,"Asheville, NC",36,35,N,26,6,35.435,82,W,32,28,-82.54111111,1/1/1950 0:00,6/30/2011 0:00,0,0
+1105701,11057,CLT,Douglas Municipal,"Charlotte, NC",36,United States,US,North Carolina,NC,37,31057,"Charlotte, NC",36,35,N,13,9,35.21916667,80,W,56,9,-80.93583333,1/1/1950 0:00,12/31/1981 0:00,0,0
+1143901,11439,DUF,Pine Island,"Duck, NC",36,United States,US,North Carolina,NC,37,31439,"Duck, NC",36,36,N,15,12,36.25333333,75,W,47,19,-75.78861111,3/1/1993 0:00,6/30/2011 0:00,0,0
+1147901,11479,ECG,Elizabeth,"Elizabeth City, NC",36,United States,US,North Carolina,NC,37,31479,"Elizabeth City, NC",36,36,N,15,33,36.25916667,76,W,10,23,-76.17305556,1/1/1950 0:00,12/31/2002 0:00,0,0
+1148601,11486,EDE,Northeastern Regional,"Edenton, NC",36,United States,US,North Carolina,NC,37,31486,"Edenton, NC",36,36,N,1,43,36.02861111,76,W,34,11,-76.56972222,4/1/2008 0:00,6/30/2011 0:00,0,0
+1161701,11617,EWN,Craven County Regional,"New Bern/Morehead/Beaufort, NC",36,United States,US,North Carolina,NC,37,31617,"New Bern/Morehead/Beaufort, NC",36,35,N,4,25,35.07361111,77,W,2,33,-77.0425,1/1/1950 0:00,6/30/2008 0:00,0,0
+1164101,11641,FAY,Fayetteville Regional/Grannis Field,"Fayetteville, NC",36,United States,US,North Carolina,NC,37,31641,"Fayetteville, NC",36,34,N,59,29,34.99138889,78,W,52,49,-78.88027778,1/1/1950 0:00,6/30/2011 0:00,0,0
+1164201,11642,FBG,Simmons AFB,"Fort Bragg, NC",36,United States,US,North Carolina,NC,37,31642,"Fort Bragg, NC",36,35,N,7,55,35.13194444,78,W,56,6,-78.935,3/1/1985 0:00,6/30/2011 0:00,0,0
+1199201,11992,GSB,Seymour Johnson AFB,"Goldsboro, NC",36,United States,US,North Carolina,NC,37,31992,"Goldsboro, NC",36,35,N,20,23,35.33972222,77,W,57,36,-77.96,1/1/1950 0:00,6/30/2011 0:00,0,0
+1199501,11995,GSO,Piedmont Triad International,"Greensboro/High Point, NC",36,United States,US,North Carolina,NC,37,31995,"Greensboro/High Point, NC",36,36,N,5,31,36.09194444,79,W,56,34,-79.94277778,1/1/1950 0:00,6/30/2011 0:00,0,0
+1211001,12110,HFF,Mackall AAF,"Hoffman, NC",36,United States,US,North Carolina,NC,37,32110,"Hoffman, NC",36,35,N,2,11,35.03638889,79,W,29,52,-79.49777778,12/1/1987 0:00,6/30/2011 0:00,0,0
+1214901,12149,HKY,Hickory Regional,"Hickory, NC",36,United States,US,North Carolina,NC,37,32149,"Hickory, NC",36,35,N,44,26,35.74055556,81,W,23,24,-81.39,1/1/1950 0:00,6/30/2011 0:00,0,0
+1216801,12168,HNC,Billy Mitchell,"Hatteras, NC",36,United States,US,North Carolina,NC,37,32168,"Hatteras, NC",36,35,N,13,52,35.23111111,75,W,37,17,-75.62138889,10/1/1974 0:00,6/30/2011 0:00,0,0
+1230301,12303,IGX,Horace Williams,"Chapel Hill, NC",36,United States,US,North Carolina,NC,37,32303,"Chapel Hill, NC",36,35,N,56,6,35.935,79,W,3,57,-79.06583333,3/1/2002 0:00,9/30/2022 0:00,1,1
+1231201,12312,IKB,Wilkes County,"Wilkesboro, NC",36,United States,US,North Carolina,NC,37,32312,"Wilkesboro, NC",36,36,N,13,22,36.22277778,81,W,5,54,-81.09833333,3/1/2003 0:00,12/31/2012 0:00,0,0
+1232301,12323,ILM,Wilmington International,"Wilmington, NC",36,United States,US,North Carolina,NC,37,32323,"Wilmington, NC",36,34,N,16,1,34.26694444,77,W,54,14,-77.90388889,1/1/1950 0:00,6/30/2011 0:00,0,0
+1234801,12348,INT,Smith Reynolds,"Winston-Salem, NC",36,United States,US,North Carolina,NC,37,32348,"Winston-Salem, NC",36,36,N,8,7,36.13527778,80,W,13,32,-80.22555556,1/1/1950 0:00,6/30/2011 0:00,0,0
+1239001,12390,ISO,Kinston Regional Jetport at Stallings Field,"Kinston, NC",36,United States,US,North Carolina,NC,37,32390,"Kinston, NC",36,35,N,19,36,35.32666667,77,W,37,0,-77.61666667,1/1/1950 0:00,6/30/2011 0:00,0,0
+1254401,12544,JQF,Concord Regional,"Concord, NC",36,United States,US,North Carolina,NC,37,32544,"Cabarrus, NC",36,35,N,23,7,35.38527778,80,W,42,35,-80.70972222,6/1/2001 0:00,6/30/2011 0:00,1,0
+1290601,12906,LBT,Lumberton Municipal,"Lumberton, NC",36,United States,US,North Carolina,NC,37,32906,"Lumberton, NC",36,34,N,36,40,34.61111111,79,W,3,28,-79.05777778,9/1/1977 0:00,6/30/2011 0:00,0,0
+1324601,13246,MEO,Dare County Regional,"Manteo, NC",36,United States,US,North Carolina,NC,37,33246,"Manteo, NC",36,35,N,55,8,35.91888889,75,W,41,44,-75.69555556,9/1/1999 0:00,,0,1
+1346601,13466,MRH,Beaufort/Morehead,"Morehead City, NC",36,United States,US,North Carolina,NC,37,33466,"Morehead City, NC",36,34,N,44,3,34.73416667,76,W,39,37,-76.66027778,1/1/1950 0:00,2/28/1981 0:00,0,0
+1347001,13470,MRN,Morganton Lenoir,"Morganton, NC",36,United States,US,North Carolina,NC,37,33470,"Morganton, NC",36,35,N,50,0,35.83333333,81,W,37,0,-81.61666667,3/1/2003 0:00,,0,1
+1355401,13554,MXE,Laurinburg-Maxton,"Maxton, NC",36,United States,US,North Carolina,NC,37,33554,"Maxton, NC",36,34,N,47,30,34.79166667,79,W,21,58,-79.36611111,3/1/1987 0:00,6/30/2011 0:00,0,0
+1361901,13619,NC1,Gastonia Municipal,"Gastonia, NC",36,United States,US,North Carolina,NC,37,33619,"Gastonia, NC",36,35,N,12,10,35.20277778,81,W,8,59,-81.14972222,7/1/2002 0:00,6/30/2011 0:00,0,0
+1362001,13620,NC2,Johnston County,"Smithfield, NC",36,United States,US,North Carolina,NC,37,33620,"Smithfield, NC",36,35,N,32,27,35.54083333,78,W,23,25,-78.39027778,2/1/2004 0:00,4/30/2015 0:00,0,0
+1362101,13621,NC3,Shelby Municipal,"Shelby, NC",36,United States,US,North Carolina,NC,37,33621,"Shelby, NC",36,35,N,15,20,35.25555556,81,W,36,3,-81.60083333,3/1/2004 0:00,6/30/2011 0:00,0,0
+1362201,13622,NC4,Currituck County Regional,"Currituck, NC",36,United States,US,North Carolina,NC,37,33622,"Currituck, NC",36,36,N,23,56,36.39888889,76,W,0,58,-76.01611111,1/1/2005 0:00,6/30/2011 0:00,0,0
+1362301,13623,NC5,Duplin County,"Kenansville, NC",36,United States,US,North Carolina,NC,37,33623,"Kenansville, NC",36,35,N,0,0,35,77,W,58,54,-77.98166667,6/1/2006 0:00,,0,1
+1369701,13697,NKT,Cherry Point MCAS,"Cherry Point, NC",36,United States,US,North Carolina,NC,37,33697,"Cherry Point, NC",36,34,N,54,9,34.9025,76,W,52,53,-76.88138889,1/1/1950 0:00,6/30/2011 0:00,0,0
+1379501,13795,OAJ,Albert J Ellis,"Jacksonville/Camp Lejeune, NC",36,United States,US,North Carolina,NC,37,33795,"Jacksonville/Camp Lejeune, NC",36,34,N,49,49,34.83027778,77,W,36,42,-77.61166667,1/1/1950 0:00,6/30/2011 0:00,0,0
+1381401,13814,OCW,Warren Field,"Washington, NC",36,United States,US,North Carolina,NC,37,33814,"Washington, NC",36,35,N,34,8,35.56888889,77,W,3,3,-77.05083333,3/1/1974 0:00,6/30/2011 0:00,0,0
+1409201,14092,PGV,Pitt Greenville,"Greenville, NC",36,United States,US,North Carolina,NC,37,34092,"Greenville, NC",36,35,N,38,0,35.63333333,77,W,23,7,-77.38527778,1/1/1950 0:00,6/30/2011 0:00,0,0
+1419701,14197,POB,Pope AFB,"Fayetteville, NC",36,United States,US,North Carolina,NC,37,31641,"Fayetteville, NC",36,35,N,10,15,35.17083333,79,W,0,53,-79.01472222,1/1/1950 0:00,6/30/2011 0:00,0,0
+1449201,14492,RDU,Raleigh-Durham International,"Raleigh/Durham, NC",36,United States,US,North Carolina,NC,37,34492,"Raleigh/Durham, NC",36,35,N,52,31,35.87527778,78,W,46,55,-78.78194444,1/1/1950 0:00,6/30/2011 0:00,0,0
+1459801,14598,RQF,Lincoln County,"Lincolnton, NC",36,United States,US,North Carolina,NC,37,34598,"Lincolnton, NC",36,35,N,29,1,35.48361111,81,W,9,39,-81.16083333,3/1/1994 0:00,6/30/2011 0:00,0,0
+1465601,14656,RWI,Rocky Mount-Wilson Regional,"Rocky Mount, NC",36,United States,US,North Carolina,NC,37,34656,"Rocky Mount, NC",36,35,N,51,16,35.85444444,77,W,53,26,-77.89055556,1/1/1950 0:00,6/30/2011 0:00,0,0
+1466801,14668,RZZ,Halifax County,"Roanoke Rapids, NC",36,United States,US,North Carolina,NC,37,34668,"Roanoke Rapids, NC",36,36,N,26,22,36.43944444,77,W,42,34,-77.70944444,12/1/1979 0:00,9/30/2010 0:00,1,0
+1493801,14938,SOP,Moore County,"Pinehurst/Southern Pines, NC",36,United States,US,North Carolina,NC,37,34938,"Pinehurst/Southern Pines, NC",36,35,N,14,15,35.2375,79,W,23,20,-79.38888889,1/1/1950 0:00,2/28/2013 0:00,0,0
+1498801,14988,SRW,Rowan County,"Salisbury, NC",36,United States,US,North Carolina,NC,37,34988,"Salisbury, NC",36,35,N,38,45,35.64583333,80,W,31,13,-80.52027778,3/1/2006 0:00,7/31/2017 0:00,0,0
+1505401,15054,SVH,Statesville Municipal,"Statesville, NC",36,United States,US,North Carolina,NC,37,35054,"Statesville, NC",36,35,N,45,47,35.76305556,80,W,57,19,-80.95527778,12/1/1993 0:00,6/30/2011 0:00,0,0
+1516301,15163,TDF,Person County,"Roxboro, NC",36,United States,US,North Carolina,NC,37,35163,"Roxboro, NC",36,36,N,17,6,36.285,78,W,59,3,-78.98416667,3/1/2002 0:00,6/30/2011 0:00,0,0
+1563901,15639,VUJ,Stanly County,"Albemarle, NC",36,United States,US,North Carolina,NC,37,35639,"Albemarle, NC",36,35,N,25,0,35.41666667,80,W,9,3,-80.15083333,1/1/2007 0:00,6/30/2025 0:00,0,0
+1650201,16502,NC6,Henderson Oxford,"Oxford, NC",36,United States,US,North Carolina,NC,37,36494,"Oxford, NC",36,36,N,21,42,36.36166667,78,W,31,45,-78.52916667,6/1/2011 0:00,3/31/2015 0:00,0,0
+1651001,16510,NC7,Michael J. Smith Field,"Beaufort, NC",36,United States,US,North Carolina,NC,37,36502,"Beaufort, NC",36,34,N,44,1,34.73361111,76,W,39,38,-76.66055556,7/1/2011 0:00,4/30/2013 0:00,0,0
+1653801,16538,CTZ,Clinton Sampson County,"Clinton, NC",36,United States,US,North Carolina,NC,37,36525,"Clinton, NC",36,34,N,58,30,34.975,78,W,21,56,-78.36555556,1/1/2012 0:00,,0,1
+1655201,16552,NC8,Burlington Alamance Regional,"Burlington, NC",36,United States,US,North Carolina,NC,37,36538,"Burlington, NC",36,36,N,2,55,36.04861111,79,W,28,30,-79.475,6/1/2012 0:00,7/31/2013 0:00,0,0
+1664001,16640,NC9,Richmond County,"Rockingham, NC",36,United States,US,North Carolina,NC,37,36624,"Rockingham, NC",36,34,N,53,29,34.89138889,79,W,45,35,-79.75972222,6/1/2014 0:00,,0,1
+1671901,16719,N2C,Charlotte Monroe Executive,"Monroe, NC",36,United States,US,North Carolina,NC,37,36698,"Monroe, NC",36,35,N,1,3,35.0175,80,W,37,19,-80.62194444,4/1/2016 0:00,10/31/2017 0:00,0,0
+1672801,16728,N3C,Macon County,"Franklin, NC",36,United States,US,North Carolina,NC,37,36707,"Franklin, NC",36,35,N,13,20,35.22222222,83,W,25,12,-83.42,6/1/2016 0:00,10/31/2017 0:00,0,0
+1675001,16750,N4C,Raleigh Exec Jetport at Sanford Lee County,"Sanford, NC",36,United States,US,North Carolina,NC,37,36726,"Sanford, NC",36,35,N,34,57,35.5825,79,W,6,5,-79.10138889,10/1/2016 0:00,,0,1
+1675401,16754,N5C,Columbus County Municipal,"Whiteville, NC",36,United States,US,North Carolina,NC,37,36730,"Whiteville, NC",36,34,N,16,22,34.27277778,78,W,42,54,-78.715,1/1/2017 0:00,6/30/2025 0:00,0,0
+1676901,16769,N6C,Siler City Municipal,"Siler City, NC",36,United States,US,North Carolina,NC,37,36744,"Siler City, NC",36,35,N,42,15,35.70416667,79,W,30,15,-79.50416667,6/1/2017 0:00,10/31/2017 0:00,0,0
+1688301,16883,N7C,Tri County,"Ahoskie, NC",36,United States,US,North Carolina,NC,37,36849,"Ahoskie, NC",36,36,N,17,51,36.2975,77,W,10,15,-77.17083333,1/1/2020 0:00,9/30/2022 0:00,0,0
+1692701,16927,N8C,Cape Fear Regional Jetport Howie Franklin,"Oak Island, NC",36,United States,US,North Carolina,NC,37,36886,"Oak Island, NC",36,33,N,55,51,33.93083333,78,W,4,24,-78.07333333,1/1/2021 0:00,,0,1
+1693401,16934,2NC,Asheboro Regional,"Asheboro, NC",36,United States,US,North Carolina,NC,37,36892,"Asheboro, NC",36,35,N,39,16,35.65444444,79,W,53,41,-79.89472222,1/1/2019 0:00,,0,1
+1699101,16991,3NC,Hendersonville Airport,"Hendersonville, NC",36,United States,US,North Carolina,NC,37,36940,"Hendersonville, NC",36,35,N,18,27,35.30749999,82,W,25,59,-82.43305556,1/1/2023 0:00,,0,1
+1703901,17039,4NC,Western Carolina Regional,"Andrews, NC",36,United States,US,North Carolina,NC,37,36977,"Andrews, NC",36,35,N,11,43,35.19527778,83,W,51,47,-83.86305556,4/1/2024 0:00,,0,1
